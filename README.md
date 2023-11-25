@@ -12,7 +12,6 @@ Welcome to the *Design and Analysis of Algorithms* repository! This resource is 
 - [Shortest Path](#shortest-path)
 - [Sorting](#sorting)
 - [Traversal](#traversal)
-- [Tests](#tests)
 
 ### Connected Components
 Detailed explanation and code for solving problems related to Connected Components in graphs.
