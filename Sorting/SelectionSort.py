@@ -17,9 +17,9 @@ for k in arr:
 
 '''
 Time Complexity	 
-Best	O(n2)
-Worst	O(n2)
-Average	O(n2)
+Best	O(n^2)
+Worst	O(n^2)
+Average	O(n^2)
 Space Complexity	O(1)
 Stability	No
 '''
